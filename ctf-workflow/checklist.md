@@ -277,4 +277,20 @@ EOF
 
 ---
 
+## 🔗 Related References
+
+This checklist assumes you already know your nmap. If you need the
+full flag reference, scan combinations, NSE scripts, and CTF vs
+professional scanning breakdown:
+
+| Resource | What It Covers |
+|---|---|
+| [nmap-reference](https://github.com/commit-issues/nmap-reference) | Complete nmap reference — flags, scans, NSE, parsing output |
+| [google-dorking](https://github.com/commit-issues/google-dorking) | Passive recon and OSINT before you touch the target |
+| [exploitation-reference](https://github.com/commit-issues/exploitation-reference) | Coming soon — what happens after enumeration gives you a lead 👀 |
+
+> The checklist gets you to the door. The references tell you how to pick the lock.
+
+---
+
 *by SudoChef · Part of the SudoCode Pentesting Methodology Guide*
