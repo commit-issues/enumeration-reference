@@ -1,4 +1,17 @@
 # 📧 SMTP Enumeration
+## 📋 Contents
+
+- [What is SMTP — Plain English](#-what-is-smtp--plain-english)
+- [What You're Looking For](#-what-youre-looking-for)
+- [Banner Grabbing — Start Here](#-banner-grabbing--start-here)
+- [User Enumeration — The Main Event](#-user-enumeration--the-main-event)
+- [Testing for Open Relay](#-testing-for-open-relay)
+- [nmap SMTP Scripts](#-nmap-smtp-scripts)
+- [Reading SMTP Response Codes](#️-reading-smtp-response-codes)
+- [Recommended SMTP Enumeration Workflow](#-recommended-smtp-enumeration-workflow)
+- [CTF vs Professional Use](#️-ctf-vs-professional-use)
+
+---
 
 SMTP (Simple Mail Transfer Protocol) is the protocol that sends email. It runs on port 25 and is present on almost every server that handles email. Most people walk right past it during enumeration — which is exactly why it's worth stopping for. SMTP frequently exposes valid usernames, and valid usernames are the first step toward credential attacks.
 

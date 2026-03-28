@@ -1,5 +1,19 @@
 # 📚 Wordlists
 
+## 📋 Contents
+
+- [What is a Wordlist — Plain English](#-what-is-a-wordlist--plain-english)
+- [Security Warning — Where You Get Wordlists Matters](#️-security-warning--where-you-get-wordlists-matters)
+- [SecLists — The Gold Standard](#-seclists--the-gold-standard)
+- [SecLists Directory Structure](#-seclists-directory-structure)
+- [The Right List for the Right Job](#-the-right-list-for-the-right-job)
+- [Password Cracking — John the Ripper](#-password-cracking--john-the-ripper)
+- [Building Custom Wordlists with CeWL](#-building-custom-wordlists-with-cewl)
+- [Built-in Kali Wordlists](#-built-in-kali-wordlists)
+- [Recommended Wordlist Strategy](#-recommended-wordlist-strategy)
+
+---
+
 A wordlist is only as good as what's in it. The right wordlist on the right target is the difference between finding the admin panel in 30 seconds and running a scan for 6 hours that finds nothing. This guide covers what wordlists are, where to get them safely, which ones to use for each scenario, and how to build your own.
 
 ---

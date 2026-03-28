@@ -1,4 +1,16 @@
 # 🔎 Parameter Fuzzing
+## 📋 Contents
+
+- [What is a Parameter — Plain English](#-what-is-a-parameter--plain-english)
+- [Why Parameter Fuzzing Leads to Vulnerabilities](#-why-parameter-fuzzing-leads-to-vulnerabilities)
+- [ffuf — Parameter Fuzzing](#-ffuf--parameter-fuzzing)
+- [Arjun — Dedicated Parameter Discovery](#️-arjun--dedicated-parameter-discovery)
+- [Testing Found Parameters](#-testing-found-parameters)
+- [How to Find the Default Response Size](#-how-to-find-the-default-response-size)
+- [Recommended Parameter Fuzzing Workflow](#-recommended-parameter-fuzzing-workflow)
+- [CTF vs Professional Use](#️-ctf-vs-professional-use)
+
+---
 
 You found the page. You found the API endpoint. But the real vulnerability is often hiding one layer deeper — in a parameter you didn't know existed. Parameter fuzzing is the technique of finding hidden inputs that the application never told you about. This is where SQL injection, Local File Inclusion, SSRF, and IDOR vulnerabilities live.
 

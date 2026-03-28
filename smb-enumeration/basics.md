@@ -1,4 +1,14 @@
 # 🖥️ SMB Enumeration
+## 📋 Contents
+
+- [What is SMB — Plain English](#-what-is-smb--plain-english)
+- [Why SMB is Always Worth Enumerating](#-why-smb-is-always-worth-enumerating)
+- [The Tools](#️-the-tools)
+- [Recommended SMB Enumeration Workflow](#-recommended-smb-enumeration-workflow)
+- [What To Do When You Find Something](#-what-to-do-when-you-find-something)
+- [CTF vs Professional Use](#️-ctf-vs-professional-use)
+
+---
 
 SMB is one of the highest-value targets you'll encounter. It has the longest history of critical vulnerabilities of any common service, it runs on almost every Windows machine, and it's frequently misconfigured. If you see port 139 or 445 open — stop everything and enumerate it properly.
 

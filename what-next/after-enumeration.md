@@ -1,4 +1,13 @@
 # 🗺️ What To Do After Enumeration
+## 📋 Contents
+
+- [The Mindset Shift](#-the-mindset-shift)
+- [The Post-Enumeration Flow](#-the-post-enumeration-flow)
+- [Finding by Finding — What To Do Next](#-finding-by-finding--what-to-do-next)
+- [Prioritization — What to Try First](#-prioritization--what-to-try-first)
+- [Want to Go Deeper?](#-want-to-go-deeper)
+
+---
 
 You've run the scans. You've checked every port. You've enumerated the web server, dug into DNS, checked SMB, analyzed the JavaScript files, and fuzzed the parameters. Now you have a list of findings. The question everyone asks at this point — what do I actually do with all of this?
 

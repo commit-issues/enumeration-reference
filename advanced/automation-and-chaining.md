@@ -1,4 +1,16 @@
 # ⚙️ Automation & Chaining Tools Together
+## 📋 Contents
+
+- [The Chaining Concept](#-the-chaining-concept)
+- [Basic Chaining — Pipes and Redirects](#-basic-chaining--pipes-and-redirects)
+- [Extract Open Ports from nmap and Feed to Tools](#-extract-open-ports-from-nmap-and-feed-to-tools)
+- [Chain Subdomain Discovery into Live Host Check](#-chain-subdomain-discovery-into-live-host-check)
+- [Full Enumeration Chain — CTF Workflow](#-full-enumeration-chain--ctf-workflow)
+- [httpx — Check Which Hosts Have Web Servers](#️-httpx--check-which-hosts-have-web-servers)
+- [Tool Output Formats — Feeding One Into Another](#-tool-output-formats--feeding-one-into-another)
+- [CTF vs Professional Use](#️-ctf-vs-professional-use)
+
+---
 
 Running tools one at a time manually is fine when you're learning. But once you understand what each tool does and why, the next level is chaining them together — using the output of one tool as the input for the next, automating the repetitive parts, and building workflows that cover your entire enumeration methodology without you having to babysit every step.
 

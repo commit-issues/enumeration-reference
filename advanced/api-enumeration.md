@@ -1,4 +1,15 @@
 # 🔌 API Enumeration
+## 📋 Contents
+
+- [What is an API — Plain English](#-what-is-an-api--plain-english)
+- [Why APIs Are the Most Overlooked Attack Surface](#-why-apis-are-the-most-overlooked-attack-surface)
+- [Finding Hidden API Endpoints](#-finding-hidden-api-endpoints)
+- [API Authentication — What You'll Encounter](#-api-authentication--what-youll-encounter)
+- [Tools for API Enumeration](#️-tools-for-api-enumeration)
+- [Recommended API Enumeration Workflow](#-recommended-api-enumeration-workflow)
+- [CTF vs Professional Use](#️-ctf-vs-professional-use)
+
+---
 
 APIs are the most overlooked attack surface in modern web security. While everyone is running gobuster against `/admin` and `/login`, the real findings are hiding in `/api/v1/users`, `/api/internal/config`, and endpoints that were never supposed to be public. This is where modern web applications live — and where modern vulnerabilities are found.
 

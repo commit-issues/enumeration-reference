@@ -1,4 +1,18 @@
 # 🖥️ Virtual Host Fuzzing
+## 📋 Contents
+
+- [What is a Virtual Host — Plain English](#-what-is-a-virtual-host--plain-english)
+- [Why Companies Accidentally Expose Vhosts](#-why-companies-accidentally-expose-vhosts)
+- [Tools for Vhost Fuzzing](#-tools-for-vhost-fuzzing)
+- [gobuster vhost Mode](#-gobuster-vhost-mode)
+- [ffuf vhost Fuzzing](#-ffuf-vhost-fuzzing)
+- [Finding the Filter Value](#-finding-the-filter-value)
+- [HTTPS Targets](#-https-targets)
+- [What To Do When You Find a Vhost](#-what-to-do-when-you-find-a-vhost)
+- [Full Vhost Discovery Workflow](#-full-vhost-discovery-workflow)
+- [CTF vs Professional Use](#️-ctf-vs-professional-use)
+
+---
 
 Virtual host fuzzing is one of the most important techniques in web enumeration that beginners consistently skip. You can run a full subdomain enumeration, find nothing interesting, and completely miss three hidden web applications running on the exact same IP address — because they're configured as virtual hosts, not DNS subdomains. This file explains what virtual hosts are, why they're different, and how to find them.
 

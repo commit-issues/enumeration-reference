@@ -1,4 +1,15 @@
 # 🕵🏽 Advanced Content Discovery
+## 📋 Contents
+
+- [The Mindset Shift](#-the-mindset-shift)
+- [Wayback Machine — The Internet's Memory](#-wayback-machine--the-internets-memory)
+- [Google Dorking for Content Discovery](#-google-dorking-for-content-discovery)
+- [Certificate Transparency Logs — crt.sh](#-certificate-transparency-logs--crtsh)
+- [JavaScript File Analysis](#-javascript-file-analysis)
+- [Source Code Review During Enumeration](#-source-code-review-during-enumeration)
+- [Recommended Advanced Content Discovery Workflow](#-recommended-advanced-content-discovery-workflow)
+
+---
 
 You ran gobuster. You ran ffuf. You found some directories. Most people stop there. Advanced content discovery goes beyond what tools can find automatically — it uses sources, techniques, and thinking patterns that most people never consider. This is where you find the endpoints that were never supposed to be public, the credentials that were accidentally committed, and the infrastructure that was meant to stay hidden.
 

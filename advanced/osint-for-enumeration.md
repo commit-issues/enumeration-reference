@@ -1,5 +1,18 @@
 # 🕵🏽 OSINT for Enumeration
 
+## 📋 Contents
+
+- [Passive vs Active — Why It Matters](#-passive-vs-active--why-it-matters)
+- [Shodan — Search Engine for Internet-Connected Devices](#-shodan--search-engine-for-internet-connected-devices)
+- [Censys — Alternative to Shodan](#-censys--alternative-to-shodan)
+- [WHOIS & ASN Lookups](#-whois--asn-lookups--mapping-infrastructure)
+- [LinkedIn & Social Media — People Intelligence](#-linkedin--social-media--people-intelligence)
+- [GitHub Dorking — Finding Leaked Credentials](#-github-dorking--finding-leaked-credentials)
+- [Email & Breach Data](#-email--breach-data)
+- [Recommended OSINT Workflow](#-recommended-osint-workflow)
+- [CTF vs Professional Use](#️-ctf-vs-professional-use)
+
+---
 OSINT stands for Open-Source Intelligence. It means gathering information from publicly available sources — without ever touching the target directly. This is passive reconnaissance, and it's the step most people skip because it feels slow. It isn't. Done well, OSINT gives you a complete picture of your target's infrastructure, employees, technology stack, and potential attack vectors before you send a single packet.
 
 The best pentesters build their target profile through OSINT first. By the time they run their first active scan, they already know what they're looking for.

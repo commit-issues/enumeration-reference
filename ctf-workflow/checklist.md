@@ -1,4 +1,15 @@
 # ✅ CTF Enumeration Checklist
+## 📋 Contents
+
+- [Before You Start](#-before-you-start)
+- [Phase 1 — Initial Scanning](#-phase-1--initial-scanning)
+- [Phase 2 — Web Enumeration](#-phase-2--web-enumeration-ports-80-443-8080-8443)
+- [Phase 3 — Service-Specific Enumeration](#-phase-3--service-specific-enumeration)
+- [Phase 4 — Advanced Enumeration](#️-phase-4--advanced-enumeration)
+- [If You're Stuck — Decision Tree](#-if-youre-stuck--decision-tree)
+- [Documentation Template](#-documentation-template)
+
+---
 
 This is your step-by-step enumeration checklist for CTF boxes — HackTheBox, TryHackMe, PicoCTF, and similar platforms. Follow it in order. The answer is almost always hiding in something you didn't enumerate thoroughly enough.
 
