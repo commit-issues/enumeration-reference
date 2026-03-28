@@ -307,4 +307,17 @@ trufflehog github --org=examplecompany
 
 ---
 
+## 🔗 Go Deeper
+
+This section covers OSINT as it applies to enumeration. For the full
+OSINT and Google dorking reference — operators, people finding, dark
+web intelligence, free research tools, and complete investigation
+workflows — the dedicated guide is here:
+
+| Resource | What It Covers |
+|---|---|
+| [google-dorking](https://github.com/commit-issues/google-dorking) | Complete OSINT and search engine intelligence reference |
+
+---
+
 *by SudoChef · Part of the SudoCode Pentesting Methodology Guide*

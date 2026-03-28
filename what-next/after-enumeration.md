@@ -214,17 +214,15 @@ Not all findings are equal. Here's how to prioritize:
 
 ## 🌸 Want to Go Deeper?
 
-This reference covers enumeration. The full attack chain — exploitation, privilege escalation, lateral movement, post-exploitation, and reporting — is covered in the **SudoCode Pentesting Methodology Guide**.
+Enumeration is the foundation. Here is where the series goes next:
 
-The nmap reference that started this journey lives at:
-**github.com/commit-issues/nmap-reference**
+| Resource | What It Covers |
+|---|---|
+| [nmap-reference](https://github.com/commit-issues/nmap-reference) | Complete nmap flag, scan, and NSE reference — go deeper on scanning |
+| [google-dorking](https://github.com/commit-issues/google-dorking) | OSINT, passive recon, finding exposed assets before you scan anything |
+| [exploitation-reference](https://github.com/commit-issues/exploitation-reference) | Coming soon — what to do once enumeration gives you a foothold 👀 |
 
-Follow along for new tool references and methodology guides:
-
-- 📸 Instagram: [@sudochef](https://www.instagram.com/sudochef)
-- 🎵 TikTok: [@sudochef](https://www.tiktok.com/@sudochef)
-
-More is coming. Stay curious. 🔍
+> You found the services. You mapped the surface. Now you figure out which door opens.
 
 ---
 
